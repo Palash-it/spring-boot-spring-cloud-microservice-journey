@@ -1,0 +1,9 @@
+[submodule "microservice-project-products-service"]
+	path = microservice-project-products-service
+	url = https://github.com/Palash-it/microservice-project-products-service.git
+[submodule "microservice-project-users-service"]
+	path = microservice-project-users-service
+	url = https://github.com/Palash-it/microservice-project-users-service.git
+[submodule "microservice-project-orders-service"]
+	path = microservice-project-orders-service
+	url = https://github.com/Palash-it/microservice-project-orders-service.git
